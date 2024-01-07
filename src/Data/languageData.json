@@ -1,0 +1,122 @@
+[
+        {
+            "langCode": "en",
+            "language": "English"
+        },
+        {
+            "langCode": "bn",
+            "language": "Bengali"
+        },
+        {
+            "langCode": "ur",
+            "language": "Urdu"
+        },
+        {
+            "langCode": "hi",
+            "language": "Hindi"
+        },
+        {
+            "langCode": "ne",
+            "language": "Nepali"
+        },
+        {
+            "langCode": "es",
+            "language": "Spanish"
+        },
+        {
+            "langCode": "fr",
+            "language": "French"
+        },
+        {
+            "langCode": "de",
+            "language": "German"
+        },
+        {
+            "langCode": "it",
+            "language": "Italian"
+        },
+        {
+            "langCode": "ja",
+            "language": "Japanese"
+        },
+        {
+            "langCode": "ko",
+            "language": "Korean"
+        },
+        {
+            "langCode": "zh",
+            "language": "Chinese"
+        },
+        {
+            "langCode": "ar",
+            "language": "Arabic"
+        },
+        {
+            "langCode": "pt",
+            "language": "Portuguese"
+        },
+        {
+            "langCode": "ru",
+            "language": "Russian"
+        },
+        {
+            "langCode": "tr",
+            "language": "Turkish"
+        },
+        {
+            "langCode": "nl",
+            "language": "Dutch"
+        },
+        {
+            "langCode": "sv",
+            "language": "Swedish"
+        },
+        {
+            "langCode": "fi",
+            "language": "Finnish"
+        },
+        {
+            "langCode": "da",
+            "language": "Danish"
+        },
+        {
+            "langCode": "no",
+            "language": "Norwegian"
+        },
+        {
+            "langCode": "pl",
+            "language": "Polish"
+        },
+        {
+            "langCode": "hu",
+            "language": "Hungarian"
+        },
+        {
+            "langCode": "cs",
+            "language": "Czech"
+        },
+        {
+            "langCode": "ro",
+            "language": "Romanian"
+        },
+        {
+            "langCode": "el",
+            "language": "Greek"
+        },
+        {
+            "langCode": "th",
+            "language": "Thai"
+        },
+        {
+            "langCode": "vi",
+            "language": "Vietnamese"
+        },
+        {
+            "langCode": "id",
+            "language": "Indonesian"
+        },
+        {
+            "langCode": "ms",
+            "language": "Malay"
+        }
+    ]
